@@ -11,6 +11,7 @@ public class Demo {
         System.out.println("this is the second trial");
 
         System.out.println("Hey this is my first trial");
+        System.out.println("here is something new");
 
     }
 }
